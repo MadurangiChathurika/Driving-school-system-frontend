@@ -78,12 +78,12 @@ function Welcome(){
                     
                     <h1 className="text-uppercase font-weight-bold">Welcome to the Viraja Driving School !!</h1>
                 
-                    <p >Bootstrap is a front-end framework that helps you build mobile responsive
-                    websites quickly and easily. Bootstrap was originally created by a small group of
-                    developers working at Twitter. They developed Bootstrap as an internal tool to help
-                    create consistent web interfaces. Since then it has seen several major updates
-                    over the years, together with the contribution of a large number of contributors. The
-                    last update is Bootstrap 4 in January 2018.
+                    <p >Now Serving Southeast Indiana With Two Convenient Locations! 
+                    S&B is proud to announce that we have opened a brand new location in Batesville, IN! 
+                    The new Batesville location is located in Village Square and we are accepting registrations 
+                    now for all students in Southeastern Indiana. We will still be operating out of the St. Leon 
+                    location as well so we now have two convenient locations to meet your driver’s education needs.  
+                    We offer both the online and classroom experience so give us a call to get signed up today! 812-576-SAFE! 
                     </p>
                     </div>
                 </header> 
