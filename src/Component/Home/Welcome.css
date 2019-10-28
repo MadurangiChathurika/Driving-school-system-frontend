@@ -1,7 +1,7 @@
 .header{
     
 	background-image: url(./img/welcome.jpg);
-	background-size: cover;
+    background-size: cover;
 	background-position: center;
     position: relative;
     padding:  100px;
@@ -39,6 +39,18 @@
     font-size: 1.2rem;
     }
 
+    .description1 h1{
+        text-align: center;
+        color:red;
+    }
+
+    .description1 p {
+        color: black;
+        font-size: 1.3rem;
+        line-height: 2.0;
+        text-align: center;
+        font-size: 1.4rem;
+    } 
 
     .page-footer {
         background-color: #222;
@@ -58,5 +70,27 @@
         color: #00F
     }
          
-
+/*
+ <br></br>
+              <div className="description1">
+                    
+                    <h1 className="text-uppercase font-weight-bold">Welcome to the Southern Learnes !!</h1>
+                <div className="container-fluid">
+                    <p >We are the leading driving school in Sri Lanka catering for both 
+                      Local and International driving licenses. We are known in the community
+                       since 1966 for creating professional and discipline drivers. We treat
+                        all our customers with the highest priority and try to deliver our 
+                        pupils "a fun to drive approach to drive". It is our mission to 
+                        deliver this through our highly trained professional instructors with 
+                        the modern day training program packages backed up with a brand new 
+                        fleet of vehicles. We at Daya Learners believe that Driving License is 
+                        a lifetime investment. This investment has to be achieved by the 
+                        guidance of professional's. Achieving this training from unprofessional
+                         people will put your life as well as other's lives and your vehicle at
+                          enormous risk.
+                    </p>
+                    </div>
+                    </div>      
+        <br></br> */
+        
     

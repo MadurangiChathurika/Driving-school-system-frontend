@@ -76,29 +76,36 @@ function Welcome(){
                 <div className="overlay"></div>
                 <div className="description">
                     
-                    <h1 className="text-uppercase font-weight-bold">Welcome to the Viraja Driving School !!</h1>
+                    <h1 className="text-uppercase font-weight-bold">Welcome to the Southern Learnes !!</h1>
                 
-                    <p >Now Serving Southeast Indiana With Two Convenient Locations! 
-                    S&B is proud to announce that we have opened a brand new location in Batesville, IN! 
-                    The new Batesville location is located in Village Square and we are accepting registrations 
-                    now for all students in Southeastern Indiana. We will still be operating out of the St. Leon 
-                    location as well so we now have two convenient locations to meet your driver’s education needs.  
-                    We offer both the online and classroom experience so give us a call to get signed up today! 812-576-SAFE! 
-                    </p>
+                    <p > We are the leading driving school in Sri Lanka catering for both 
+                      Local and International driving licenses. We are known in the community
+                       since 1966 for creating professional and discipline drivers. We treat
+                        all our customers with the highest priority and try to deliver our 
+                        pupils "a fun to drive approach to drive". It is our mission to 
+                        deliver this through our highly trained professional instructors with 
+                        the modern day training program packages backed up with a brand new 
+                        fleet of vehicles. We at Daya Learners believe that Driving License is 
+                        a lifetime investment. This investment has to be achieved by the 
+                        guidance of professional's. Achieving this training from unprofessional
+                         people will put your life as well as other's lives and your vehicle at
+                          enormous risk. </p>
+                    
                     </div>
                 </header> 
-                    
                 
+     
            <footer className="page-footer">
            <div className="container">
                <div className="row">
                    <div className="col-lg-8 col-md-8 col-sm-12">
                          <h6 className="text-uppercase font-weight-bold">
-                          Viraja Driving School</h6>
+                          Southern Learnes</h6>
                          <h5>QUICK LINKS</h5>
                              <a href="#home">HOME</a><br></br>
                            <a href="why">WHY</a><br></br>
                            <a href="faq">FAQ</a><br></br>
+                           <a href="student">STUDENT PORTAL</a><br></br>
                            <a href="contact">CONTACT</a><br></br>
                            <a href="about">ABOUT</a>
                            
