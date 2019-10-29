@@ -4,7 +4,7 @@ import {BrowserRouter,Route} from 'react-router-dom'
 import Header from './Component/Header';
 import Welcome from './Component/Home/Welcome';
 import Admin from './Component/Home/Admin';
-
+import Trainer from './Component/Home/Trainer';
 
 
 class App extends React.Component{
@@ -15,7 +15,8 @@ class App extends React.Component{
                     <Header/>
                     <Route exact path="/" component={Welcome}/>
                     <Route path="/admin" component={Admin}/>
-                </BrowserRouter>
+                    <Route path="/Trainer" component={Trainer}/>
+                   </BrowserRouter>
             
             </div>
            

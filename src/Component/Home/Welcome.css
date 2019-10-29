@@ -1,10 +1,10 @@
-.header{
+.welcome{
     
 	background-image: url(./img/welcome.jpg);
-    background-size: cover;
+	background-size: cover;
 	background-position: center;
     position: relative;
-    padding:  100px;
+    padding:  209.5px;
 }
 
 .overlay{
@@ -16,12 +16,15 @@
 	background: rgba(0,0,0,0);
 }
 
-.description h1 {
-    color: #0277bd;
-    text-align: center;
+.description h2 {
+    color: #b71c1c;
+    text-align:center;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size: 2.9em;
+    font-style:bold;
 }
 
-.description p {
+/*.description p {
     color: #4fc3f7;
     font-size: 1.3rem;
     line-height: 2.0;
@@ -29,48 +32,15 @@
     text-align: center;
 } 
 
-
-
-.description h1 {
-    font-size: 2em;
-    }
-    
-    .description p {
+.description p {
     font-size: 1.2rem;
     }
 
-    .description1 h1{
-        text-align: center;
-        color:red;
-    }
+    
 
-    .description1 p {
-        color: black;
-        font-size: 1.3rem;
-        line-height: 2.0;
-        text-align: center;
-        font-size: 1.4rem;
-    } 
-
-    .page-footer {
-        background-color: #222;
-        color: #ccc;
-        padding: 60px 0 30px;
-       
-    }
-    .footer-copyright {
-        color: #666;
-        padding: 40px 0;
-    }
-    a {
-        color: #FFF;
-        
-    }
-    a:hover {
-        color: #00F
-    }
+    
          
-/*
+
  <br></br>
               <div className="description1">
                     

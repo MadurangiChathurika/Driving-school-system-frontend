@@ -66,68 +66,26 @@ import React, { Component } from 'react';
 //import { useState } from 'react';
 import './Welcome.css';
 import components from './img/welcome.jpg';
-//import Footer from './Home/components/Footer'
+import Footer from './Footer'
 console.log(components);
 
 function Welcome(){
     return (
     <div>
-        <header className="page-header header container-fluid">
+      <div className="welcome">
+        <div className="page-header header container-fluid">
+         
                 <div className="overlay"></div>
                 <div className="description">
-                    
-                    <h1 className="text-uppercase font-weight-bold">Welcome to the Southern Learnes !!</h1>
-                
-                    <p > We are the leading driving school in Sri Lanka catering for both 
-                      Local and International driving licenses. We are known in the community
-                       since 1966 for creating professional and discipline drivers. We treat
-                        all our customers with the highest priority and try to deliver our 
-                        pupils "a fun to drive approach to drive". It is our mission to 
-                        deliver this through our highly trained professional instructors with 
-                        the modern day training program packages backed up with a brand new 
-                        fleet of vehicles. We at Daya Learners believe that Driving License is 
-                        a lifetime investment. This investment has to be achieved by the 
-                        guidance of professional's. Achieving this training from unprofessional
-                         people will put your life as well as other's lives and your vehicle at
-                          enormous risk. </p>
-                    
-                    </div>
-                </header> 
-                
-     
-           <footer className="page-footer">
-           <div className="container">
-               <div className="row">
-                   <div className="col-lg-8 col-md-8 col-sm-12">
-                         <h6 className="text-uppercase font-weight-bold">
-                          Southern Learnes</h6>
-                         <h5>QUICK LINKS</h5>
-                             <a href="#home">HOME</a><br></br>
-                           <a href="why">WHY</a><br></br>
-                           <a href="faq">FAQ</a><br></br>
-                           <a href="student">STUDENT PORTAL</a><br></br>
-                           <a href="contact">CONTACT</a><br></br>
-                           <a href="about">ABOUT</a>
-                           
-                   </div>
-           
-                   <div className="col-lg-4 col-md-4 col-sm-12">
-                         <h6 className="text-uppercase font-weight-bold">Contact</h6>
-                         <p>35, UCSC, Reid Avenue, Colombo 7
-                         <br/>info@Group39website.com
-                         <br/>+ 01 234 567 88
-                         <br/>+ 01 234 567 89</p>
-                   </div>
-               </div>
-           <div className="footer-copyright text-center">© 2019 Copyright:
-               Group39Website.com</div>
-           </div>
-       </footer>
-               
-           </div> 
+                    <h2 className="text-uppercase font-weight-bold">Welcome to the Southern Learnes !!</h2>
+                </div>
+                </div> 
+      </div>          
+                <Footer/>
+    </div>           
+    );
+}
           
-            );
-        }
+export default Welcome;          
         
 
-export default Welcome;
