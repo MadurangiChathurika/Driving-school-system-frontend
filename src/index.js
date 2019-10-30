@@ -5,7 +5,7 @@ import Header from './Component/Header';
 import Welcome from './Component/Home/Welcome';
 import Admin from './Component/Home/Admin';
 import Trainer from './Component/Home/Trainer';
-
+import Faq from './Component/Home/Faq';
 
 class App extends React.Component{
     render(){
@@ -15,7 +15,8 @@ class App extends React.Component{
                     <Header/>
                     <Route exact path="/" component={Welcome}/>
                     <Route path="/admin" component={Admin}/>
-                    <Route path="/Trainer" component={Trainer}/>
+                    <Route path="/trainer" component={Trainer}/>
+                    <Route path="/faq" component={Faq}/>
                    </BrowserRouter>
             
             </div>
