@@ -11,10 +11,12 @@ function Footer(){
 				           Viraja Driving School</h6>
 				          <h5>QUICK LINKS</h5>
 						  	<a href="#home">HOME</a><br></br>
+							<a href="trainer">TRAINER</a><br></br>
 							<a href="why">WHY</a><br></br>
 							<a href="faq">FAQ</a><br></br>
 							<a href="contact">CONTACT</a><br></br>
 							<a href="about">ABOUT</a>
+							
 							
 			        </div>
 			

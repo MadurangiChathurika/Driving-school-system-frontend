@@ -6,6 +6,7 @@ import Welcome from './Component/Home/Welcome';
 import Admin from './Component/Home/Admin';
 import Trainer from './Component/Home/Trainer';
 import Faq from './Component/Home/Faq';
+import Contact from './Component/Home/Contact';
 
 class App extends React.Component{
     render(){
@@ -17,6 +18,7 @@ class App extends React.Component{
                     <Route path="/admin" component={Admin}/>
                     <Route path="/trainer" component={Trainer}/>
                     <Route path="/faq" component={Faq}/>
+                    <Route path="/contact" component={Contact}/>
                    </BrowserRouter>
             
             </div>
