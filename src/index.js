@@ -19,6 +19,7 @@ class App extends React.Component{
                     <Route path="/trainer" component={Trainer}/>
                     <Route path="/faq" component={Faq}/>
                     <Route path="/contact" component={Contact}/>
+                    <Route path="/Map" component={Map}/>
                    </BrowserRouter>
             
             </div>
