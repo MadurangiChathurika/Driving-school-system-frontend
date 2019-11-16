@@ -14,7 +14,7 @@ function Footer(){
 							<a href="trainer">TRAINER</a><br></br>
 							<a href="why">WHY</a><br></br>
 							<a href="faq">FAQ</a><br></br>
-							<a href="contact">CONTACT</a><br></br>
+							<a href="contact">CONTACT US</a><br></br>
 							<a href="about">ABOUT</a>
 							
 							

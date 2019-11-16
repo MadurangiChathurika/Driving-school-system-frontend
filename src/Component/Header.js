@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom';
 
 //component for header
 import Login from './Login/Login';
+//import Faq from './Home/Faq';
 //boostrap import
 import 'bootstrap/dist/css/bootstrap.css';
 const Header=()=>{
@@ -11,6 +12,7 @@ const Header=()=>{
             <nav className="navbar navbar-dark bg-dark">
                 <Link to='/' className="navbar-brand">Sourthen Learnes</Link>
                 <Login className="nav-item"/>
+                
             </nav>
         
         </div>
