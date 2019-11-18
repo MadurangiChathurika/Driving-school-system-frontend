@@ -8,7 +8,7 @@ function Footer(){
 		        <div className="row">
 			        <div className="col-lg-8 col-md-8 col-sm-12">
 				          <h6 className="text-uppercase font-weight-bold">
-				           Viraja Driving School</h6>
+				           Southern learns</h6>
 				          <h5>QUICK LINKS</h5>
 						  	<a href="#home">HOME</a><br></br>
 							<a href="trainer">TRAINER</a><br></br>

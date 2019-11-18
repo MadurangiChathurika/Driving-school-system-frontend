@@ -50,8 +50,7 @@ function Finish () {
               </Form.Group>
             </Form.Row>
            <button className="btn btn-success" type="submit">Submit</button>
-            <button className="btn btn-primary" type="submit">Update</button>
-            <button className="btn btn-danger" type="submit">Delete</button>
+            
           </Form>
           </Jumbotron>
           </Container>

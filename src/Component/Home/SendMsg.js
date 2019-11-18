@@ -44,16 +44,9 @@ function SendMsg () {
                 <Form.Label><h5>SUBJECT</h5></Form.Label>
                 <Form.Control type="subject" placeholder="Enter subject" />
               </Form.Group>
-
-              
-
               </Form.Row>
 
-              
-                
-
-              
-              <Form.Row>
+            <Form.Row>
               <Form.Group as={Col} controlId="formGridComment">
                 <Form.Label><h5>MESSEGE</h5></Form.Label>
                 <div>
@@ -62,10 +55,9 @@ function SendMsg () {
               </Form.Group>
             </Form.Row>
            <button className="btn btn-success" type="submit">Send Messge</button>
-           
-          </Form>
-         
-          </Container>
+         </Form>
+      
+      </Container>
         </div>  
 
         );

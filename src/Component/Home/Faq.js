@@ -386,7 +386,7 @@ function Faq () {
 
     </Accordion>
     
-    </div>
+    </div><br></br>
     <Footer/>
     </div>
     
